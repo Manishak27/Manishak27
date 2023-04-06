@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manishak27
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python and sql
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in Java frameworks
+- 🌱 I’m currently learning Microservices and Angular
+- 💞️ I’m looking to collaborate on data Full stack development projects
 
 - 📫 How to reach me ...
 
